@@ -1,0 +1,27 @@
+.card {
+    max-width: 320px;
+    text-align: center;
+    font-family: Georgia, serif;
+    margin: 40px auto;
+  }
+  
+  .icon {
+    width: 100px;
+    height: 100px;
+    background: #b56a48;
+    border-radius: 5px 45px 5px 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 40px;
+    margin: 0 auto 20px;
+  }
+  
+  h3 {
+    margin-bottom: 15px;
+  }
+  
+  p {
+    color: #666;
+    line-height: 1.5;
+  }
